@@ -51,4 +51,19 @@ the platform will match the by-products with potential buyers who would use them
 By applying this technology we shall divert waste going to the landfill and reduce carbon emissions thus combating climate change.
 
 
+The Architecture
 
+😀User----- >☁️ Cloud--------------->External(market)
+           Watson discovery.          Market data.
+           Watson Assistant
+           Cloudant
+           Kubernetes
+           Watson studio
+           Continuous delivery
+           React app
+
+
+
+
+
+            
