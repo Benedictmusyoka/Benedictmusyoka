@@ -53,7 +53,7 @@ By applying this technology we shall divert waste going to the landfill and redu
 
 🔗 The Architecture
 
-😀User----- >☁️🔒 Cloud------>🏭External(market)
+😀User<---- >☁️🔒 Cloud<----->🏭External(market)
 
           📌 Watson discovery.          
           📌Watson Assistant
