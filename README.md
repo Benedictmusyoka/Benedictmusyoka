@@ -1,11 +1,11 @@
 THE CODE: RESPONSIBLE PRODUCTION AND GREEN CONSUMPTION
 
-The Idea
+🔗 The Idea
 
 A recyled material supplier who can sell recycled resources directly to producers through a market place at competitive rates.
 
 
-Summary
+🔗 Summary
 
 Circular economy is a systematic approach to economic development designed to benefit businesses, society and environment. 
 The main aim of circular economy is to keep materials available instead of disposing them and thus closing the loop of
@@ -14,7 +14,7 @@ materials within the product lifecycle.
 To ensure sustainability and mitigate climate change, continual use of resources should be empasized, keeping products, equipment
 and infrastructure in use for a longer time.
 
- Benefits of circular economy
+ 🔗 Benefits of circular economy
 
 *Reducing pressure on environment
 *Protection of natural resources
@@ -41,7 +41,7 @@ Looking keenly on the key elements, they are matching the code challenge expecta
 solution.
 
 
-Development and business model
+🔗 Development and business model
 
 According to the World Business Council for sustainable development the main obstacle to by-product synergy is lack of a body(Platform) to link industries 
 worldwide. 
@@ -51,7 +51,7 @@ the platform will match the by-products with potential buyers who would use them
 By applying this technology we shall divert waste going to the landfill and reduce carbon emissions thus combating climate change.
 
 
-The Architecture
+🔗 The Architecture
 
 😀User----- >☁️🔒 Cloud------>🏭External(market)
 
