@@ -53,14 +53,15 @@ By applying this technology we shall divert waste going to the landfill and redu
 
 The Architecture
 
-😀User----- >☁️ Cloud------>External(market)
-           Watson discovery.          
-           Watson Assistant
-           Cloudant
-           Kubernetes
-           Watson studio
-           Continuous delivery
-           React app
+😀User----- >☁️🔒 Cloud------>🏭External(market)
+
+          📌 Watson discovery.          
+          📌Watson Assistant
+          📌 Cloudant
+          📌 Kubernetes
+          📌 Watson studio
+          📌Continuous delivery
+          📌 React app
 
 
 
